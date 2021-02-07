@@ -1,1 +1,5 @@
-# se2a4_s7_td_traitement_signal
+# Polytech Lille SE2A4 S7 - TD Traitement du signal
+
+## Auteur du support de cours
+
+### Alexandre Boé
