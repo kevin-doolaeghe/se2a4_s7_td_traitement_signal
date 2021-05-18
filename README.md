@@ -2,8 +2,8 @@
 
 ## Auteur
 
-### Kevin Doolaeghe
+Kevin Doolaeghe
 
 ## Auteur du support de cours
 
-### Alexandre Boé
+Alexandre Boé
