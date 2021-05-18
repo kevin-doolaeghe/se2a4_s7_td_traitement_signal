@@ -2,7 +2,7 @@
 
 ## Auteur
 
-Kevin Doolaeghe
+### Kevin Doolaeghe
 
 ## Auteur du support de cours
 
